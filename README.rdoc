@@ -3,3 +3,4 @@
 See http://richonrails.com/articles/facebook-authentication-in-ruby-on-rails for details.
 
 NOTE:  Be sure to add your facebook app id and secret to the omniauth initializer prior to running this example app.
+May need to run bundle update if you're getting bundle errors in the terminal
